@@ -23,12 +23,3 @@ I am a beginner learning Python through Harvard's CS50 Introduction to Programmi
 
 I aim to understand the code I write, practise problem-solving, and improve through experimentation and debugging.
 
-## Current Status
-
-**Stage:** Getting started
-
-**Course:** Harvard CS50P
-
-**Day:** 1
-
-More updates will be added as I progress.
