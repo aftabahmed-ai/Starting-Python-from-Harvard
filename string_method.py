@@ -15,5 +15,3 @@ print(f"Hello, {first}")
 
 
 
-# Better way for same code
-# name = input("Whats your name? ").strip().title()
