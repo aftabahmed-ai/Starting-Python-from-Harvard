@@ -1,4 +1,4 @@
-# This is a comment
+#This is considered as commit
 """This is also a comment, It can be used as a pseducode """ 
 
 # ask user for thier name
