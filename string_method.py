@@ -11,7 +11,7 @@ name = name.title()
 first, last = name.split(" ")
 
 # say hello to user
-print(f"Hello, {first}") 
+print(f"Hello, {first}") # formate string
 
 
 
