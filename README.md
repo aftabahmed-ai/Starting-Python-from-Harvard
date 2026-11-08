@@ -21,5 +21,5 @@ I am a beginner learning Python through Harvard's CS50 Introduction to Programmi
 
 ## Learning Approach
 
-I aim to understand the code I write, practise problem-solving, and improve through experimentation and debugging.
+I aim to understand the code I write, practise problem-solving, and improve through experimentation and debugging. :)
 
